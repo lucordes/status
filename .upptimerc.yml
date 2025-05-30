@@ -13,6 +13,8 @@ sites:
     url: https://analytics.lucacordes.com
   - name: Gitea
     url: https://git.lucacordes.com
+  - name: Photos
+    url: https://photos.lucacordes.com
 
 
 status-website:
