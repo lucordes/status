@@ -7,14 +7,22 @@ sites:
     url: https://www.lucacordes.com
   - name: Notes
     url: https://notes.lucacordes.com
+  - name: Overleaf
+    url: https://overleaf.lucacordes.com
+  - name: Gitea
+    url: https://git.lucacordes.com
   - name: Budget
     url: https://budget.lucacordes.com
   - name: Analytics
     url: https://analytics.lucacordes.com
-  - name: Gitea
-    url: https://git.lucacordes.com
   - name: Photos
     url: https://photos.lucacordes.com
+  - name: Orderfood
+    url: https://orderfood.lucacordes.com
+  - name: Minecraft Server
+    check: "tcp-ping"
+    url: minecraft.lucacordes.com
+    port: 25565
 
 
 status-website:
