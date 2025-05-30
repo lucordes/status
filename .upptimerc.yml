@@ -3,12 +3,12 @@ owner: lucordes # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
+  - name: Overleaf
+    url: https://overleaf.lucacordes.com
   - name: Landingpage
     url: https://www.lucacordes.com
   - name: Notes
     url: https://notes.lucacordes.com
-  - name: Overleaf
-    url: https://overleaf.lucacordes.com
   - name: Gitea
     url: https://git.lucacordes.com
   - name: Budget
@@ -19,10 +19,6 @@ sites:
     url: https://photos.lucacordes.com
   - name: Orderfood
     url: https://orderfood.lucacordes.com
-  - name: Minecraft Server
-    check: "tcp-ping"
-    url: minecraft.lucacordes.com
-    port: 25565
 
 
 status-website:
@@ -32,8 +28,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "[**lucacordes.com**](https://www.lucacordes.com) monitor"
+  introMessage: The tracking does not take place on the hardware of the server but is entirely powered by GitHub.
   navbar:
     - title: Status
       href: /
