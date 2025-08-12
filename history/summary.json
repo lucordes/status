@@ -4,9 +4,9 @@
     "url": "https://overleaf.lucacordes.com",
     "icon": "https://icons.duckduckgo.com/ip3/overleaf.lucacordes.com.ico",
     "slug": "overleaf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,43 +15,48 @@
     "timeWeek": 688,
     "timeMonth": 653,
     "timeYear": 686,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-12": 0
+    }
   },
   {
     "name": "Landingpage",
     "url": "https://www.lucacordes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lucacordes.com.ico",
     "slug": "landingpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 702,
-    "timeWeek": 618,
-    "timeMonth": 581,
-    "timeYear": 594,
-    "dailyMinutesDown": {}
+    "time": 655,
+    "timeDay": 3447,
+    "timeWeek": 1315,
+    "timeMonth": 756,
+    "timeYear": 655,
+    "dailyMinutesDown": {
+      "2025-08-12": 0
+    }
   },
   {
     "name": "Notes",
     "url": "https://notes.lucacordes.com",
     "icon": "https://icons.duckduckgo.com/ip3/notes.lucacordes.com.ico",
     "slug": "notes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 656,
-    "timeDay": 726,
-    "timeWeek": 664,
-    "timeMonth": 630,
-    "timeYear": 656,
+    "time": 653,
+    "timeDay": 560,
+    "timeWeek": 630,
+    "timeMonth": 623,
+    "timeYear": 653,
     "dailyMinutesDown": {
+      "2025-08-12": 0,
       "2025-06-10": 20
     }
   },
@@ -60,18 +65,20 @@
     "url": "https://git.lucacordes.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.lucacordes.com.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 691,
-    "timeWeek": 599,
-    "timeMonth": 568,
-    "timeYear": 595,
-    "dailyMinutesDown": {}
+    "time": 592,
+    "timeDay": 543,
+    "timeWeek": 573,
+    "timeMonth": 563,
+    "timeYear": 592,
+    "dailyMinutesDown": {
+      "2025-08-12": 0
+    }
   },
   {
     "name": "Budget",
