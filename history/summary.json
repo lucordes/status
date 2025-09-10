@@ -4,10 +4,10 @@
     "url": "https://overleaf.lucacordes.com",
     "icon": "https://icons.duckduckgo.com/ip3/overleaf.lucacordes.com.ico",
     "slug": "overleaf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
@@ -15,17 +15,19 @@
     "timeWeek": 726,
     "timeMonth": 697,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-10": 1
+    }
   },
   {
     "name": "Landingpage",
     "url": "https://www.lucacordes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.lucacordes.com.ico",
     "slug": "landingpage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
@@ -33,7 +35,9 @@
     "timeWeek": 660,
     "timeMonth": 776,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-10": 1
+    }
   },
   {
     "name": "Notes",
